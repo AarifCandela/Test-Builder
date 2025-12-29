@@ -1,0 +1,14 @@
+{
+  "PLDT_2G_UDPv6": {
+    "dut": "PLDT_2g",
+    "station": "1.1.sta0000",
+    "upstream": "1.1.eth1",
+    "attenuator": "1.1.84",
+    "traffic_type": "UDP-IPv6",
+    "direction": "DUT Transmit",
+    "packet_size": "MTU",
+    "channel": "6",
+    "attenuations": "0..+20..950",
+    "duration": "15s"
+  }
+}
